@@ -1,1 +1,1 @@
-# prodigy-internship
+# prodigy-internship in Data Science
